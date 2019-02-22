@@ -17,7 +17,7 @@ https://leetcode.com/problems/two-sum/
 class Solution:
 
     """
-    brust: Time: O(n^2)  Space: O(1)
+    brute force: Time: O(n^2)  Space: O(1)
     Runtime: 4652 ms, faster than 15.24% of Python3 online submissions for Two Sum.
     Memory Usage: 12.8 MB, less than 87.21% of Python3 online submissions for Two Sum.
     """
